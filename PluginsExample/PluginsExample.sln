@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginsExample", "PluginsExample\PluginsExample.csproj", "{C3343107-3CF3-4E96-A72A-2A05B5C1E284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginInterface", "PluginInterface\PluginInterface.csproj", "{F7DB264F-D90A-4081-92AA-AF1CA2D75343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineToolPlugin", "LineToolPlugin\LineToolPlugin.csproj", "{590C3628-B329-4433-AB44-CEE5F52866D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EllipseToolPlugin", "EllipseToolPlugin\EllipseToolPlugin.csproj", "{9B628D1C-95DF-4C5A-B126-2B3FFF95D446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleToolPlugin", "RectangleToolPlugin\RectangleToolPlugin.csproj", "{B9FFC325-8DAE-47AB-8213-1F6BD165D0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3343107-3CF3-4E96-A72A-2A05B5C1E284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3343107-3CF3-4E96-A72A-2A05B5C1E284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3343107-3CF3-4E96-A72A-2A05B5C1E284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3343107-3CF3-4E96-A72A-2A05B5C1E284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DB264F-D90A-4081-92AA-AF1CA2D75343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DB264F-D90A-4081-92AA-AF1CA2D75343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DB264F-D90A-4081-92AA-AF1CA2D75343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DB264F-D90A-4081-92AA-AF1CA2D75343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590C3628-B329-4433-AB44-CEE5F52866D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590C3628-B329-4433-AB44-CEE5F52866D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590C3628-B329-4433-AB44-CEE5F52866D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590C3628-B329-4433-AB44-CEE5F52866D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B628D1C-95DF-4C5A-B126-2B3FFF95D446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B628D1C-95DF-4C5A-B126-2B3FFF95D446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B628D1C-95DF-4C5A-B126-2B3FFF95D446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B628D1C-95DF-4C5A-B126-2B3FFF95D446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FFC325-8DAE-47AB-8213-1F6BD165D0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FFC325-8DAE-47AB-8213-1F6BD165D0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FFC325-8DAE-47AB-8213-1F6BD165D0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FFC325-8DAE-47AB-8213-1F6BD165D0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
